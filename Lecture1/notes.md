@@ -31,5 +31,5 @@ The magnitude of the <u>Fourier coefficients</u> $Y[k]$ measures the magnitude o
 
 **Using Python to compute the DFT**:
 
-See `implementation.ipynb`.
+See `lecture1.ipynb`.
 
